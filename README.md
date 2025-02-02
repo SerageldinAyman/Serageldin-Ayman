@@ -1,12 +1,11 @@
 <h1 align="center">Hello 👋, I'm Serageldin Ayman</h1>
-<h3 align="center">A Backend Web developer and an Unreal Engine Developer as a side hobby</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Serageldin-Ayman&label=Profile%20views&color=0e75b6&style=flat" alt="Serageldin-Ayman" />
-</p>
+<h3 align="center">Backend Web developer</h3>
+ 
 
 <p align="center">
-  //todo
+  I'm a passionate Backend Developer specializing in Node.js and sometimes make games with unreal engine as a side hobby. 
+  I thrive on solving complex problems, building scalable solutions, and crafting immersive gaming experiences. I’m 
+  always eager to learn and explore new technologies to push boundaries. I take pride in delivering top-notch results.
 </p>
 
 
@@ -14,7 +13,6 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/serageldin-ayman/"><img align="center"src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40" width="40"/></a>
     <a href="https://discord.gg/.darkkn1ght." target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt=".darkkn1ght." height="40" width="40" /></a>
-    <a href="https://gmail.com/"><img align="center"src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/></a>
   </p>
 
 ### Languages and Tools:
