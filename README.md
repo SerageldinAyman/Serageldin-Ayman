@@ -15,7 +15,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/serageldin-ayman/"><img align="center"src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40" width="40"/></a>
     <a href="https://discord.gg/.darkkn1ght." target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt=".darkkn1ght." height="40" width="40" /></a>
-    <a href="serag.eldin.ayman9@gmail.com"><img align="center"src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/></a>
+    <a href="https://gmail.com/"><img align="center"src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/></a>
   </p>
 
 ### Languages and Tools:
