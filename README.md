@@ -1,67 +1,57 @@
-<details>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .section {
-      margin-bottom: 20px;
-    }
-    .tools-list, .projects-list {
-      list-style-type: none;
-      padding: 0;
-    }
-    .tools-list li, .projects-list li {
-      background: #fff;
-      margin: 5px 0;
-      padding: 10px;
-      border-radius: 5px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-    .fun-fact {
-      font-style: italic;
-      color: #555;
-    }
-  </style>
-</head>
-<body>
-  <h1>Hi there, I'm [Serageldin] A Nodejs Backend web developer! 👋</h1>
+<h1 align="center">Hello 👋, I'm Serageldin Ayman</h1>
+<h3 align="center">A Backend Web developer and an Unreal Engine Developer as a side hobby</h3>
 
-  <div class="section">
-    <h2>🛠️ Tools & Technologies</h2>
-    <ul class="tools-list">
-      <li><strong>JavaScript</strong></li>
-      <li><strong>Node.js</strong></li>
-      <li><strong>Express</strong> - A fast, unopinionated, minimalist web framework for Node.js.</li>
-      <li><strong>Socket.IO</strong> - For real-time, bidirectional, and event-based communication.</li>
-      <li><strong>MySQL</strong> - A relational database management system.</li>
-      <li><strong>MongoDB</strong> - A NoSQL database for modern applications.</li>
-      <li><strong>MongoSH</strong> - The MongoDB Shell for interacting with MongoDB databases.</li>
-      <li><strong>Unreal Engine</strong> - A powerful tool for creating high-quality games and interactive experiences.</li>
-      <li><strong>C++</strong> - For high-performance applications and game development.</li>
-    </ul>
-  </div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=khaled71612000&label=Profile%20views&color=0e75b6&style=flat" alt="khaled71612000" />
+</p>
 
-  <hr>
-</body>
-</html>
-</details>
+<p align="center">
+  //todo
+</p>
+
+- **Email:** serag.eldin.ayman9@gmail.com
+- **LinkedIn:** [Career](https://linkedin.com/in/serageldin-ayman/)
+
+### Connect with me:
+<p align="left">
+  <a href="https://discord.gg/.darkkn1ght." target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="munchpie" height="30" width="40" />
+  </a>
+</p>
+
+### Languages and Tools:
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  </a>
+   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" />
+  </a>
+</p>
