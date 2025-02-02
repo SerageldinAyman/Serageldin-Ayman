@@ -9,7 +9,6 @@
   //todo
 </p>
 
-- **Email:** serag.eldin.ayman9@gmail.com
 
 ### Connect with me:
 <p align="left">
