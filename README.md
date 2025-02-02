@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋, I'm Serageldin Ayman</h1>
 <h3 align="center">A Backend Web developer and an Unreal Engine Developer as a side hobby</h3>
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Serageldin-Ayman&label=Profile%20views&color=0e75b6&style=flat" alt="Serageldin-Ayman" />
+</p>
 
 <p align="center">
   //todo
