@@ -2,7 +2,7 @@
 <h3 align="center">A Backend Web developer and an Unreal Engine Developer as a side hobby</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=khaled71612000&label=Profile%20views&color=0e75b6&style=flat" alt="Serageldin-Ayman" />
+  <img src="https://komarev.com/ghpvc/?username=Serageldin-Ayman&label=Profile%20views&color=0e75b6&style=flat" alt="Serageldin-Ayman" />
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 </p>
 
 - **Email:** serag.eldin.ayman9@gmail.com
-- **LinkedIn:** [Career](https://linkedin.com/in/serageldin-ayman/)
 
 ### Connect with me:
-<p align="left">
-  <a href="https://discord.gg/.darkkn1ght." target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="munchpie" height="30" width="40" />
+<p align="center">
+    <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/serageldin-ayman/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://discord.gg/.darkkn1ght." target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="munchpie" height="30" width="40" />
   </a>
-</p>
+  </p>
 
 ### Languages and Tools:
 <p align="left">
