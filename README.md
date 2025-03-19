@@ -22,4 +22,4 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postman,mysql,sequelize,mongodb,graphql,docker,vercel,aws,nestjs,cpp,unreal" />
   </a>
 </p>
-![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+
