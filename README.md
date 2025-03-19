@@ -7,7 +7,7 @@
   I thrive on solving complex problems, building scalable solutions, and crafting immersive gaming experiences. I’m 
   always eager to learn and explore new technologies to push boundaries. I take pride in delivering high quality results.
 </p>
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Serageldin_Ayman_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 ### Connect with me:
 <p align="left">
