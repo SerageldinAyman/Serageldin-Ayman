@@ -11,8 +11,9 @@
 
 ### Connect with me:
 <p align="left">
-    <a href="https://www.linkedin.com/in/serageldin-ayman/"><img align="center"src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40" width="40"/></a>
-    <a href="https://discord.gg/.1max1." target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt=".1max1." height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/serageldin-ayman/"><img align="center"src="https://skillicons.dev/icons?i=linkedin" /></a>
+    <a href="https://discord.gg/.1max1." target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt=".1max1." /></a>
+
   </p>
 
 ### Languages and Tools:
