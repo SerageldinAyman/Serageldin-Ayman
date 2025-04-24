@@ -19,8 +19,8 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postman,mysql,sequelize,mongodb,graphql,docker"/>
-    <img src="https://skillicons.dev/icons?i=aws,vercel,nestjs,git,cpp,unreal" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postman,mysql,sequelize,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=graphql,docker,aws,vercel,nestjs,git,cpp,unreal" />
   </a>
 </p>
 
