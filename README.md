@@ -19,8 +19,8 @@ e<h1 align="center">Hello 👋, This is Serageldin Ayman</h1>
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,nodejs,express,mysql,sequelize"/>
-    <img src="https://skillicons.dev/icons?i=mongodb,graphql,docker,nestjs,postman,aws,git,unreal" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,nodejs,express,mysql,sequelize,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=graphql,docker,nestjs,postman,aws,git,unreal" />
   </a>
 </p>
 
