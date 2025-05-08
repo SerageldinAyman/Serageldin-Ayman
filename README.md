@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mysql,sequelize,mongodb"/>
-    <img src="https://skillicons.dev/icons?i=graphql,docker,postman,aws,vercel,git,cpp,unreal" />
+    <img src="https://skillicons.dev/icons?i=graphql,docker,postman,aws,AWS,git,cpp,unreal" />
   </a>
 </p>
 
