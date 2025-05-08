@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, This is Serageldin Ayman</h1>
+e<h1 align="center">Hello 👋, This is Serageldin Ayman</h1>
 <h3 align="center">Backend Web developer</h3>
  
 
@@ -19,8 +19,8 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,nestjs,mysql"/>
-    <img src="https://skillicons.dev/icons?i=sequelize,mongodb,graphql,docker,postman,aws,git,unreal" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,mysql,sequelize"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,graphql,docker,nestjs,postman,aws,git,unreal" />
   </a>
 </p>
 
