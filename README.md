@@ -8,7 +8,7 @@ I'm a passionate Backend Developer from Alexandria, Egypt, specializing in **Nod
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **Backend Development:**
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) Node.js & Express.js
@@ -16,7 +16,7 @@ I'm a passionate Backend Developer from Alexandria, Egypt, specializing in **Nod
 - ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) NestJS Framework
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **Databases & Storage:**
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) MongoDB & Mongoose
@@ -24,15 +24,24 @@ I'm a passionate Backend Developer from Alexandria, Egypt, specializing in **Nod
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) Redis for caching
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **Development Tools:**
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) API Testing
 - ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) Real-time Communication
-- ![Git](https:/
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Version Control
+
+</td>
+<td width="25%" valign="top">
+
+**Game Development (Hobby):**
+- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white) Unreal Engine
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) C++
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
