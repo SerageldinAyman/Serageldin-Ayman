@@ -1,39 +1,36 @@
-<h1 align="center">Hello 👋, This is Serageldin</h1>
-<h3 align="center">Backend Web developer</h3>
- 
+# Hello! I'm Serageldin Ayman 👋
 
-<p align="center">
-  I'm a passionate Backend Developer specializing in Node.js and sometimes make games with unreal engine as a side hobby. 
-  I thrive on solving complex problems, building scalable solutions, and crafting immersive gaming experiences. I’m 
-  always eager to learn and explore new technologies to push boundaries. I take pride in delivering high quality results.
-</p>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Serageldin_Ayman_visitor_badge_simple&left_color=royalblue&right_color=black"  />
+## Backend Developer | Node.js & TypeScript Specialist | Problem Solver
 
-### Connect with me:
-<p align="left">
-    <a href="https://www.linkedin.com/in/serageldin-ayman/"><img align="center"src="https://skillicons.dev/icons?i=linkedin" /></a>
-    <a href="https://discord.gg/.1max1." target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt=".1max1." /></a>
-  </p>
+I'm a passionate Backend Developer from Alexandria, Egypt, specializing in **Node.js** and **TypeScript**. I thrive on solving complex problems, building scalable solutions, and crafting immersive experiences.
+### 🔧 Core Technologies & Tools
 
-### Languages and Tools:
-<p align="left">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=ffffff">
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=ffffff">
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=ffffff">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff">
-<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=ffffff">
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff">
-<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880E4F.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff">
-<img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101.svg?style=for-the-badge&logo=socket.io&logoColor=ffffff">
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=ffffff">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff">
-<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=ffffff">
- <img alt="Redis" src="https://img.shields.io/badge/Redis-E0234E.svg?style=for-the-badge&logo=redis&logoColor=ffffff">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=ffffff">
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=ffffff">
-<img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=for-the-badge&logo=unrealengine&logoColor=ffffff">
-</p>
+**Backend Stack:**
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) Node.js & Express.js
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) TypeScript & JavaScript
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) NestJS Framework
 
+**Databases:**
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) MongoDB & Mongoose
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) MySQL & Sequelize
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) Redis for caching
 
+**Development Tools:**
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) API Testing
+- ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) Real-time Communication
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Version Control
+
+**Game Development (Hobby):**
+- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white) Unreal Engine
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) C++
+
+### 🎯 Featured Projects
+
+Check out my pinned repositories below to see my work in action! From job search platforms to e-commerce backends, each project demonstrates different aspects of modern web development.
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/serageldin-ayman)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serag.eldin.ayman9@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.1max1.)
